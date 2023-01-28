@@ -1,0 +1,399 @@
+.home{
+   width: 100%;
+   
+   background-image: url("https://preview.colorlib.com/theme/notary/images/hero_bg_1.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   height: 100vh;
+
+}
+
+.firstsectiondiv{
+    width: 445px;
+   position: absolute;
+    margin-left: 500px;
+    margin-top: 150px;
+    
+    
+}
+.firstsectiondiv h1{
+    font-size: 50px;
+    color: white;
+}
+
+#firstsectiondiv h1{
+    font-size: 50px;
+}
+.firstsectiondiv p{
+    font-size: 16px;
+}
+.firstsectiondiv{
+    color: white;
+}
+.firstsectiondiv p{
+    font-size:16px;
+    font-family: Roboto
+    -apple-system
+    BlinkMacSystemFont
+    "Segoe UI"
+    Roboto
+    "Helvetica Neue"
+    Arial
+    "Noto Sans"
+    sans-serif
+    "Apple Color Emoji"
+    "Segoe UI Emoji"
+    "Segoe UI Symbol"
+    "Noto Color Emoji";
+
+}
+
+.practise{
+    width: 100%;
+    
+}
+.practisediv
+{
+    margin-top: 100px;
+    width: 500px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+
+}
+.practisediv h2{
+    font-size: 32px;
+}
+
+
+.practisecard{
+    width: 100%;
+
+}
+.practisedivcards{
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.deletebutton{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#delete{
+    width: 80px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
+}
+.practcard{
+    width: 300px;
+    height: 120px;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+.practcardcontent h3{
+font-size: 20px;
+}
+.practcardcontent p{
+    font-size: 16px;
+    }
+.fa-school{
+    font-size: 25px;
+}
+.fa-house-chimney{
+    font-size: 25px;
+}
+.fa-jet-fighter{
+    font-size: 25px;
+}
+.fa-gun{
+    font-size: 25px;
+}
+.fa-hand-holding-medical{
+    font-size: 25px;
+}
+.fa-shield-halved{
+    font-size: 25px;
+}
+.twopicture{
+    width: 100%;
+}
+.twopicturediv{
+    width: 1050px;
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+.twopicturedivfirst{
+    width: 320px;
+    height: 450px;
+background-image: url("https://preview.colorlib.com/theme/notary/images/atty_1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+
+}
+.twopicturedivsecond{
+    width: 320px;
+    height: 450px;
+background-image: url("https://preview.colorlib.com/theme/notary/images/atty_2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+
+
+}
+.twopicturedivthird{
+    width: 300px;
+}
+.twopicturedivthird h3{
+    font-size: 28px;
+}
+.twopicturebutton{
+width: 190px;
+height: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #FEE2B3;
+color: black;
+margin-top: 30px;
+border: none;
+font-size: 16px;
+
+}
+.customers{
+    width: 100%;
+}
+.customers{
+width: 1050px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+}
+.customerstop{
+    text-align: center;
+}
+.customerstop strong{
+    font-size: 32px;
+    line-height: 38.4px;
+}
+
+.customer{
+    width: 1050px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    margin-top: 40px;
+}
+.customerscard{
+    margin-top: 50px;
+    width: 300px;
+    height: 150px;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#customercardsdiv{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.customerimg img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.customerscardinfo{
+    display: flex;
+}
+.customerscardinfo span{
+    font-size: 16px;
+
+}
+.ownerford{
+    color: gray;
+}
+.spandiv{
+    margin-left: 15px;
+}
+.spandiv span{
+   display: block;
+}
+.ownerp{
+    margin-top: 14px;
+    width: 240px;
+}
+.seacrh{
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 40px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+}
+.seacrh input{
+    width: 260px;
+    border: none;
+    outline: none;
+    
+}
+
+.legalsolutions{
+    width: 100%;
+}
+.legalsolutionsdiv{
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+.legalsolutionsfirst{
+    width: 340px;
+    height: 450px;
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+}
+.legalsolutionsfirst img{
+    width: 100%;
+}
+
+.legalsolutionssecond{
+    width: 330px;
+    height: 450px;
+    
+}
+.legalsolutionsthird{
+    width: 330px;
+   
+
+}
+.legalsolutionssecond h2{
+display: inline;
+}
+.legalsolutionsthirddiv{
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+}
+.legalsolutionsthirddivsecond{
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+}
+.legalsolutionsthirddivthird{
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    margin-top: 15px;
+}
+#legalsolutionsthirddiv{
+    padding: 15px;
+    color: gray;
+    font-family: Roboto
+    -apple-system
+    BlinkMacSystemFont
+    "Segoe UI"
+    Roboto
+    "Helvetica Neue"
+    Arial
+    "Noto Sans"
+    sans-serif
+    "Apple Color Emoji"
+    "Segoe UI Emoji"
+    "Segoe UI Symbol"
+    "Noto Color Emoji";
+}
+.footer{
+    width: 100%;
+   margin-top: 70px;
+   background-image: url("https://preview.colorlib.com/theme/notary/images/hero_bg_1.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   height: 80vh;
+
+}
+
+.footerdiv{
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footerdiv h2{
+color: white;
+font-size: 16px;
+}
+.footerdivicon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 180px;
+}
+#footerdiv{
+    width: 300px;
+   
+
+}
+
+.footerdivicons{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FEE2B3;
+    border-radius: 50%;
+
+
+}
+#footerdiv p{
+    color: white;
+}
+.fa-twitter{
+    font-size: 20px;
+    color: white;
+}
+.fa-instagram{
+    font-size: 20px;
+    color: white;
+}
+.fa-facebook{
+    font-size: 20px;
+    color: white;
+}
